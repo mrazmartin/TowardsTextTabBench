@@ -1,0 +1,11 @@
+datasets_files/**
+*.cpython-310.pyc
+conda_envs_switch.txt
+__pycache__
+fasttext_model
+AutogluonModels/
+logs/
+*.json
+*.zip
+*.pkl
+adaptor/

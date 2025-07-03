@@ -1,0 +1,3 @@
+Parts of this code unfortunetely require legacy code from our early stages of work. Since we changed how our data loaders work (and which datasets we want to work with), only the `feature_experiments.ipynb` is going to run out of the box.
+
+We keep the non-running section of the _legacy_ code here only to showcase our working process. The intermediate results are still present to view how the feature similarity figures were reached.

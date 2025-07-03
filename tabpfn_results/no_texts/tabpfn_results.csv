@@ -1,0 +1,15 @@
+dataset_name,model,fasttext_df_t-test,fasttext_df_anova,fasttext_df_variance,fasttext_df_pca,fasttext_df_correlation,fasttext_df_shap,fasttext_df_random,ag_df_t-test,ag_df_anova,ag_df_variance,ag_df_pca,ag_df_correlation,ag_df_shap,ag_df_random,skrub_df_t-test,skrub_df_anova,skrub_df_variance,skrub_df_pca,skrub_df_correlation,skrub_df_shap,skrub_df_random,no-text_df_
+beer,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.020113935014683063
+laptops,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.021145895443365245
+spotify,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.016110727964792754
+it_salary,tabpfn,,,,,,,,,,,,,,,,,,,,,,358570.4066464012
+mercari,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.015976408678288683
+sf_permits,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.057312943462837
+airbnb,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.045207463759036275
+osha_accidents,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.013021349989749749
+wine,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.13740324338321697
+job_frauds,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.014452988925785849
+hs_cards,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.007063855246006833
+kickstarter,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.01040299102288481
+customer_complaints,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.017307673314329575
+calif_houses,tabpfn,,,,,,,,,,,,,,,,,,,,,,0.026527028558042894

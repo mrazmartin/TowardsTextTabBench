@@ -1,0 +1,15 @@
+dataset_name,model,fasttext_df_variance,fasttext_df_pca,fasttext_df_correlation,fasttext_df_shap,fasttext_df_random,fasttext_df_all,ag_df_variance,ag_df_pca,ag_df_correlation,ag_df_shap,ag_df_random,ag_df_all,skrub_df_variance,skrub_df_pca,skrub_df_correlation,skrub_df_shap,skrub_df_random,skrub_df_all,no-text_df_
+airbnb,xgb,,,,,,,,,,,,,,,,,,,0.5917220558877834
+beer,xgb,,,,,,,,,,,,,,,,,,,0.4682973319526088
+calif_houses,xgb,,,,,,,,,,,,,,,,,,,0.6725389430610378
+it_salary,xgb,,,,,,,,,,,,,,,,,,,-5696124260.905854
+laptops,xgb,,,,,,,,,,,,,,,,,,,0.8005151372520494
+mercari,xgb,,,,,,,,,,,,,,,,,,,0.0008340816702181453
+sf_permits,xgb,,,,,,,,,,,,,,,,,,,0.46743545991896623
+wine,xgb,,,,,,,,,,,,,,,,,,,0.12483945818619797
+customer_complaints,xgb,,,,,,,,,,,,,,,,,,,0.5843333333333333
+job_frauds,xgb,,,,,,,,,,,,,,,,,,,0.849
+hs_cards,xgb,,,,,,,,,,,,,,,,,,,0.6316725978647687
+kickstarter,xgb,,,,,,,,,,,,,,,,,,,0.6566666666666666
+osha_accidents,xgb,,,,,,,,,,,,,,,,,,,0.5393333333333333
+spotify,xgb,,,,,,,,,,,,,,,,,,,0.6359999999999999
